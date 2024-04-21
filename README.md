@@ -1,0 +1,2 @@
+# obs
+obsidian-sync
